@@ -2,7 +2,7 @@
 ## 项目介绍
 本项目基于目前碳排放现状，结合旅游电子商务，以碳足迹，碳回收，碳旅游为主要形式，探讨了我国推行低碳旅游的必要性及可行性，致力于构建一套全面而深入的双碳领域知识图谱，通过多维度数据整合、本体定义与技术创新，为用户提供高度智能化的碳行者服务，全面覆盖产、供、销、游完整服务的低碳智能生活系统。从居民低碳旅游出发，构建智能简便的低碳旅游体系，充分落实低碳理念。
 </br> </br>
-<img src="./图片3.jpg" alt="Logo" width="200" align="center">
+<img src=".[/图片3.jpg](https://github.com/Smile-Ryin/Carbon-Walker/blob/main/%E5%9B%BE%E7%89%873.jpg?raw=true)" alt="Logo" width="200" align="center">
 </br> </br>
 
 # 核心技术
@@ -53,7 +53,7 @@
 
 操作系统：使用国产华为BC-Linux欧拉版，确保系统的安全性和稳定性。
 </br> </br>
-<img src="./图片1.png" alt="示意图" width="200" align="center"><img src="./图片2.png" alt="示意图" width="200" align="center">
+<img src=".[/图片1.png](https://github.com/Smile-Ryin/Carbon-Walker/blob/main/%E5%9B%BE%E7%89%871.png?raw=true)" alt="示意图" width="200" align="center"><img src=".[/图片2.png](https://github.com/Smile-Ryin/Carbon-Walker/blob/main/%E5%9B%BE%E7%89%872.png?raw=true)" alt="示意图" width="200" align="center">
 </br> </br>
 
 **前端架构**
